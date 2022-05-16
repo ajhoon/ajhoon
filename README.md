@@ -6,7 +6,7 @@
 저는 눈에 보이는것이 좋고, 내 결과물을 피드백 받고 소통하는걸 좋아합니다. </br>
 직관적이고 분명한것들을 좋아하며, 제품과 코드의 퀄리티를 높이는 일을 좋아합니다.
 
-<img align="right" alt="GIF" src="https://github.com/ajhoon/ajhoon/blob/main/develop.gif" width="400" height="264" />
+<img align="right" alt="GIF" src="https://github.com/ajhoon/ajhoon/blob/main/software-development.gif" width="400" height="264" />
 
 **languages and tool:**
 
